@@ -156,7 +156,7 @@ input[type="number"]::-webkit-outer-spin-button {
   height: auto;
 }
 
-.top-buffer { margin-top:20px;  margin-bottom:20px;}
+.top-buffer { margin-top:20px;  margin-bottom:20px; padding-left: 10px; padding-right: 10px;}
 input[type="search"] {
   -webkit-box-sizing: content-box;
      -moz-box-sizing: content-box;

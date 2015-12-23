@@ -6760,4 +6760,8 @@ button.close {
     display: none !important;
   }
 }
+#title{
+  font-size: 400%;
+  font-weight: bold;
+}
 /*# sourceMappingURL=bootstrap.css.map */
